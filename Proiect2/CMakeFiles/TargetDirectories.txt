@@ -1,0 +1,3 @@
+/home/marin/IEP/IEP/Proiect2/CMakeFiles/rebuild_cache.dir
+/home/marin/IEP/IEP/Proiect2/CMakeFiles/edit_cache.dir
+/home/marin/IEP/IEP/Proiect2/CMakeFiles/tema2.dir
